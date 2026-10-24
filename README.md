@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/krishan-kumar-ml/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:krishbijarniya@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://krishan-kumar-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=githubpages&logoColor=22D3EE" alt="Portfolio"/></a>
+<a href="https://krishan-kumar-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <img src="https://img.shields.io/badge/Rome%2C%20Italy-111827?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Rome, Italy"/>
 <img src="https://img.shields.io/badge/Open%20to%20work-16A34A?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work"/>
 
@@ -258,7 +258,7 @@ I'm open to **AI Engineer, GenAI and ML** opportunities — and always happy to 
 
 <a href="https://www.linkedin.com/in/krishan-kumar-ml/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
 <a href="mailto:krishbijarniya@gmail.com"><img src="https://img.shields.io/badge/krishbijarniya%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://krishan-kumar-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Visit%20my%20portfolio-0F172A?style=for-the-badge&logo=githubpages&logoColor=22D3EE" alt="Portfolio"/></a>
+<a href="https://krishan-kumar-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Visit%20my%20portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
